@@ -1,0 +1,81 @@
+nav{
+    height: 99px;
+    text-align: center;
+    padding-top: 20px;
+
+
+}
+nav li{
+    display: inline-block;
+   margin-right: 57px;
+   vertical-align: middle;
+
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+.icono{
+    width: 44px;
+    height: 44px;
+}
+.oscuro{
+    background-color: #000f08;
+}
+
+footer {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    background: #000f08;
+    color: white;
+    padding: 20px
+}
+
+i {
+    font-size: 30px;
+    color:white;
+}
+
+
+/* SEGUNDA PARTE DE EVENTO01*/
+
+#section-articulo{
+    width: 1085px;
+    top: 196px;
+    left: 418px;
+    padding-left: 190px;
+ }
+ 
+ section h1{
+    font-family: "Open Sans,Bold"; 
+    color: #000f08;
+    text-align: left;
+    letter-spacing: 0px;
+    font-size: 45px;
+ }
+
+ section img{
+    top: 328px;
+    left: 418px;
+    width: 1085px;
+    height: 565px;
+    padding-top: 30px;
+    
+ }
+
+ section h2{
+    font-family: "Open Sans,Bold"; 
+    color: #000f08;
+    text-align: left;
+    letter-spacing: 0px;
+    font-size: 40px;
+ }
+ .nota-texto{
+    font-size: 25px;
+    text-align: left;
+    font-family: "Open Sans,Regular"; 
+    color: #000f08;
+ }
+
